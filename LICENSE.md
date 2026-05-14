@@ -1,4 +1,4 @@
-# 
+# ultimate perpetual trading bot Addon | position-sizing + backtesting offers the most advanced perpetual trading bot, with position-sizing and backtesting. Ideal for professional
 
 
 
